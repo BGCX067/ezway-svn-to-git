@@ -1,0 +1,7 @@
+ABSTRACT:
+=========
+A method to prevent illegally copying files(software files of all kinds) from 
+one computer to another based on certain observed patterns in a file or/and 
+on the ownership of the software file.
+
+

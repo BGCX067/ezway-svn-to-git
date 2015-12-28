@@ -1,0 +1,46 @@
+ABSTRACT:
+=========
+Method to prevent HTTP session Hijacking by using a time dependent
+random series of algorithms that alters password/hash-response/
+challenge-response before allowing the user to login to a 
+particular website.
+
+PURPOSE:
+========
+1. To prevent bot programs from accessing the website.
+2. To prevent a hacker from using the same password/hash/response.
+
+DESCRIPTION:
+============
+A script is used to generate the alterations in the algorithm like 
+replacing binary XOR with a binary OR (likewise). The script makes these
+alterations based on time and a random number combination or possible
+some other similar methods. 
+
+The scripts used must alter the algorithm and it must create
+server-side software code and the client-side software 
+code. The software code has to be generated so as to prevent any 
+chances of replication. This will ensure that the only problem that
+ever exists. 
+
+
+NOTE:
+=====
+1. The calculation on the server side and the client side should 
+yield the same result.
+2. The algorithms have to be created, as in each algorithm is 
+different from the other.
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+anoop at kn dot live at in
+anoop us kn dot yahoo at com
+To get the correct mail address
+1. Remove spaces
+2. Replace 'at' with '.'
+3. Replace 'dot' with '@'
+4. Replace 'us' with '_'
+
+

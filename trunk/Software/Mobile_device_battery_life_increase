@@ -1,0 +1,33 @@
+ABSTRACT:
+=========
+A method to minimize battery usage of a mobile device
+by providing a common underlying framework for communication
+of events/messages/notifications from a server to a process
+that spawns the appropriate process/application that the event/
+message/notification is meant for.
+
+
+PURPOSE:
+========
+Increases battery life.
+
+DESCRIPTION:
+============
+
+
+EXAMPLE:
+========
+
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+anoop at kumar at narayanan dot gmail at com
+anoop us kn dot yahoo at com
+anoop at kn dot live at in
+To get the correct mail address
+1. Remove spaces
+2. Replace at with '.' (without single quotes)
+3. Replace dot with '@' (without single quotes)
+4. Replace us  with '_' (without single quotes)

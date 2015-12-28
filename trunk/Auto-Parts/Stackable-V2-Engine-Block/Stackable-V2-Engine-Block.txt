@@ -1,0 +1,40 @@
+HASH
+====
+File: Stackable-V2-Engine-Block-V1-00.jpg
+----------------------------------------------
+MD5:    55c969a995534b7a15e2ed3ddea2a6c3
+SHA256: 209c68d7756c52461073caa0dde6824905b7d0d4839bb6a2a5206f4bcfdbc172
+SHA512: 71af5a3fc00ff14c383f8c9c17e405e7c4693a37c83ae5fa396d2cfeb934e26649a6a4dfc7e56d0d2659bf7720bd84d60af5f12064679665018ee9e63e4ff58c
+
+V2 Engine Block
+---------------------
+
+Purpose:
+--------
+1. Stackable for more power.
+2. Ability to turn off blocks for fuel efficiency.
+
+
+Materials:
+----------
+1. Steel or Aluminium Alloy.
+2. Engine Block Casting Moulds.
+3. Piston, Piston rings
+4. Piston rods
+5. 
+
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan
+
+
+
+
+

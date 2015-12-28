@@ -1,0 +1,38 @@
+HASH
+====
+File: All-Weather-Biker-Protection-v1-00.jpg
+----------------------------------------------
+MD5:    22baa523299f28adc3342127d7713147
+SHA256: fc40993832355a7cea1c158c9210893ae973c2f70fd550ba765db0a6f8102bb6
+SHA512: 5ab81f844bcf3716c29b9a59656c6cb00c78a50d4c162f6e8d0862048dcdb4ce28eabd5aceebcee8a76e296510ece01e34ea7a674f5e9570a9fa41a2ad6bedda
+
+Purpose:
+--------
+1. To protect biker from all weathers.
+2. Collapsible Stages, when not requrired.
+3. Better option than an buying an electric car that can carry 2 people.
+4. Change with season/occasion (interchangable).
+5. A new movie merchandise.
+6. Racing Bike Design when fully collapsed.
+
+
+Materials:
+----------
+1. Highly durable plastic/fiber-glass (transparent, lower part can be translucent or opaque).
+2. Steel connector rods (welded).
+
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan
+
+
+
+
+

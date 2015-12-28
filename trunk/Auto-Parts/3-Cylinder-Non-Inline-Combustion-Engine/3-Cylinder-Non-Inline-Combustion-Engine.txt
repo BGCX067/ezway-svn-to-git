@@ -1,0 +1,41 @@
+HASH
+====
+File: 3-Cylinder-Non-Inline-Combustion-Engine-v1-00.jpg
+----------------------------------------------
+MD5:    e33703745dc6dba426964f79809ea3a8
+SHA256: 7036a4676c8756b8cc381f1d57e4811309c6f3e2a56d02cd05571f9cbce118d9
+SHA512: 7518fce3f9624b28ece6a4a87d8a7c39383f339b100a54c70be0cba74129cc428dc3c397ed598113513a5a39aaa5a67d64f0c8af385a48d273723eaeb685071b
+
+Trident Engine Block
+---------------------
+
+Purpose:
+--------
+1. 3 Cylinder Non-inline.
+2. Stackable for more power.
+3. Higher Torque.
+
+
+Materials:
+----------
+1. Steel or Aluminium Alloy.
+2. Engine Block Casting Moulds.
+3. Piston, Piston rings
+4. Piston rods
+5. 
+
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan
+
+
+
+
+

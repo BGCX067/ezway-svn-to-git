@@ -1,0 +1,115 @@
+ABSTRACT:
+=========
+Method to specify key-value pair in a protocol or in a document
+as a means of data storage. 
+
+PURPOSE:
+========
+1. Alternate method to specify key-value pairs.
+
+DESCRIPTION:
+============
+The document specifies an alternate means to specify key-value 
+pairs. The usual technique of using a ':' or '=' can be replaced 
+with the following alternate techniques.
+
+1. As f(x), where f represents the Key and x represents the Value. 
+Each Key-value pair is separated by any of the following:
+   a. ';'
+   b. ';\n'
+   c. ';\r\n'
+   d. '\n'
+   e. '\r\n'
+   f. ''
+
+Method Variants:
+----------------
+a. f(x);...
+b. f(x);\n...
+c. f(x);\r\n...
+d. f(x)\n...
+e. f(x)\r\n... 
+f. f(x)...
+
+Here, '...' means followed by an arbitary number of similar 
+key-value pairs.
+
+Example for variant 'd':
+------------------------
+Key1(Value1);\r\nKey2(Value2);\r\nKey3(Value3);\r\nKey4(Value4);\r\n...
+
+2. Same as above Method 1 with a difference being that the format 
+could interleaved with one of the above mentioned 
+variants at the applicable location of the protocol or the document. 
+Example:
+--------
+Key1(Value1)\r\nKey2(Value2)\nKey3(Value3);\r\nKey4(Value4);Key5(Value5)Key6(Value6);...
+
+3. Same as method 1 but '(' and ') replaced with an similar braces such as
+'[' and ']' or '{' and '}'.
+Example:
+--------
+Key1[Value1]\r\nKey2[Value2]\nKey3[Value3];\r\nKey4[Value4];Key5[Value5]Key6[Value6];...
+Key1{Value1}\r\nKey2{Value2}\nKey3{Value3};\r\nKey4{Value4};Key5{Value5}Key6{Value6};...
+
+4. Same as method 1 except that it could use any of the brackets
+'(' and ') or '[' and ']' or '{' and '}' at the applicable location
+in the protocol or the data document.
+Example:
+--------
+Key1[Value1]\r\nKey2[Value2]\nKey3[Value3];\r\nKey4[Value4];Key5[Value5]Key6[Value6];...
+Key1{Value1}\r\nKey2{Value2}\nKey3{Value3};\r\nKey4{Value4};Key5{Value5}Key6{Value6};...
+
+5. Same as method 1 except that '(' is replaced with a non-alphanumeric
+character other than an open bracket ('(', '[', '{') or a semicolon (';') 
+itself and ')' is replaced with any other non-alphanumeric character other 
+than a close bracket (')', ']', '}') or a semicolon (';'). The chracter 
+used to represent the open-bracket and close-bracket cannot be swaped but
+different combinations is possible. 
+Example:
+--------
+Key1!Value1@\r\nKey2!Value2@\nKey3!Value3@;\r\nKey4!Value4@;Key5!Value5#Key6!Value6$;...
+Example for Incorrect representation:
+-------------------------------------
+Key1@Value1!\r\nKey2!Value2@\nKey3!Value3@;\r\nKey4!Value4@;Key5!Value5#Key6!Value6$;... (error at "Key2")
+
+6. Same as method 1 interleaved  with method 4 and/or method 5.
+Example:
+--------
+Key1!Value1$\r\nKey2(Value2)\nKey3[Value3];\r\nKey4{Value4};Key5!Value5@Key6!Value6#;...
+
+7. A more common 'Key:Value\r\n' representation with the colon(':') or  
+or equals-to character ('=') separating the key from its associated value 
+replaced with any other non-alphanumeric character other than (':' or '='). 
+Example:
+--------
+Key1!Value1\r\nKey2(Value2\nKey3[Value3;\r\nKey4{Value4;Key5!Value5\nKey6!Value6;...
+
+NOTE:
+=====
+1. In Method 1-7, the first character used to seperate key from its
+associated value could immediately followed by an arbitary number of space 
+character (' ').
+2. In Method 1-7 each Key-value pair is separated by any of the following:
+   a. ';'
+   b. ';\n'
+   c. ';\r\n'
+   d. '\n'
+   e. '\r\n' 
+   f. '' (no separator, not valid for Method 7) 
+3. In Method 1-6 semi-colon ';' cannot be used as an open-bracket character 
+or a close bracket character.
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+anoop at kn dot live at in
+anoop us kn dot yahoo at com
+To get the correct mail address
+1. Remove spaces
+2. Replace 'at' with '.'
+3. Replace 'dot' with '@'
+4. Replace 'us' with '_'
+
+

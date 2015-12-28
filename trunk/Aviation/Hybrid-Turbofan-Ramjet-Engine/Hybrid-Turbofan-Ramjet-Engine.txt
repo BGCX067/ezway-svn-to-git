@@ -1,0 +1,41 @@
+HASH
+====
+File: Hybrid-Turbofan-Ramjet-Engine-v1-00.jpg
+----------------------------------------------
+MD5:    5c6d586eb32e6ef61f2bb1d8abf0099d
+SHA256: 9e7f19c457c70efa5b940912a24c4df4f08076839ff0b5084c4b0018581ad208
+SHA512: b22a288af522043f8cde617756da7e1c013c8e257d9281446b6b25e80ac92f8f71aae126b826577225adfb8018f65f2d3da4afd6c345a897ae28ce02603c53c1
+
+
+Purpose:
+--------
+1. Low cost jet engines for fighter planes.
+2. Reduction of need for expensive alloys.
+3. Lesser moving parts.
+4. Lower weight.
+
+Cons:
+-----
+1. Requires a high rpm car engine to kickstart ramjet during takeoff.
+
+Materials:
+----------
+1. Steel or Aluminium Alloy casts, moulds, pipes, tubines... etc
+2. Turbine Casting Moulds.
+3. Minimum 10000 RPM engine, to kickstart jet engine.
+
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan
+
+
+
+
+

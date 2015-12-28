@@ -1,0 +1,31 @@
+HASH
+====
+File: multiple-bottle-holder-v1-00.jpg
+----------------------------------------------
+MD5:    1ba54fd91afc9c38352f9987a8cbcb99
+SHA256: 849512aa3d7577f7d479b9134fc504792619316ba9f89c96d78bb95679d414e3
+SHA512: 94295975b8ea03421aaded0ed1b9566fbe6ddace4be192d599a0561215334ab9cba565f3590566ce8c77e8b2253dbf891527c736cfd5661aa869c93e056ae79e
+
+
+Purpose:
+--------
+1. To prevent the bottle from rolling in the car trunk.
+2. Standard and cheaply available bottle such as 2/2.3 ltr pepsi/coke bottles.
+3. Cheap, easy to use and cost effective.
+
+
+Materials:
+----------
+1. Plastic should be durable.
+2. Elastic/Latex(strechable) bands will connect the top and bottom pieces of the holder.
+
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan

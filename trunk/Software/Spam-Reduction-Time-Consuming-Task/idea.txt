@@ -1,0 +1,25 @@
+ABSTRACT:
+=========
+Method to prevent spamming on an email address/website by getting
+the sender/end-user to perform a time consuming task.
+
+PURPOSE:
+========
+1. Reduction of spam.
+2. To remove the speed advantage of a more sophisticated
+computer system.
+3. Can be used on Peer-To-Peer networks.
+
+DESCRIPTION:
+============
+
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+To get the correct mail address
+1. Remove spaces
+2. Replace at with '.'
+3. Replace dot with '@'
+

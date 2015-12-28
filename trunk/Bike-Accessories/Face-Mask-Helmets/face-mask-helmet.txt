@@ -1,0 +1,38 @@
+HASH
+====
+File: face-mask-helmet-v1-00.jpg
+----------------------------------------------
+MD5:    918713b77a4afbfd7ed70ebdd3fd65eb
+SHA256: 7c4c147066f7a8a75554b093961a2655e7904753419ffccf330175ba093511fd
+SHA512: 240fd1605e4e48358a300f271eeb0f1b44222616cc2285af451e6b185b980651741dadbaae53dd9e682cca360b9bacf3b9034ecca5bae7b72e65895643389c5b
+
+
+Purpose:
+--------
+1. To protect the face.
+2. Add value to an existing product.
+3. Looks Cool.
+4. Change with season/occasion (interchangable).
+5. A new movie merchandise. Heroes/Villans/Samurai faceplates.
+6. Detachable facemasks.
+
+
+Materials:
+----------
+1. Highly durable plastic (opaque/transparent/translucent).
+
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan
+
+
+
+
+

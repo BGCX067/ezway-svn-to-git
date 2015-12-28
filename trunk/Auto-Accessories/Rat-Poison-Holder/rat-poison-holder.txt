@@ -1,0 +1,31 @@
+HASH
+====
+File: rat-poison-holder-v1-00.jpg
+----------------------------------------------
+MD5:    1ba54fd91afc9c38352f9987a8cbcb99
+SHA256: c8f7df487d1c669520cc8e6576d37d1e7f5653a7ec8419b5afd69e1bea2cd71e
+SHA512: aa157c28bd7f169c6557d0e78e092eb8197b95c6bcc5dc0839b620fd50a80b0707bac4a2f839620a23431847b71ac1dc45cf7b014fa569f81e513d5d3fdb5d51
+
+
+Purpose:
+--------
+1. To protect the wires under the bonet from being chewed on by rats.
+2. The device should not rattle while the car is in motion.
+3. Cheap, easy to use and cost effective.
+
+
+Materials:
+----------
+1. String to be made from extremely durable, heat/weather resistant material.
+2. Suction cups to be made from latex should be heat and weather resistant.
+
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan

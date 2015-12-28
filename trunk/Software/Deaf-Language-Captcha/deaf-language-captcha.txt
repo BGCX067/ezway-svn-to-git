@@ -1,0 +1,26 @@
+ABSTRACT:
+=========
+Method to use deaf language hand symbols to for 
+the captcha (challenge-response) images.
+
+PURPOSE:
+========
+The use of deaf language hand symbols to identify
+if the user is a human or software robot trying
+to access the website. The deaf language
+makes it hard for the software program to identify
+the symbols hence the input in most cases has to 
+be human. As it requires a reference image for 
+a human being to identify the set of characters.
+Reason being the deaf language is not known to over
+90% of the human language.
+
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+To get the correct mail address
+1. Remove spaces
+2. Replace at with '.'
+3. Replace dot with '@'

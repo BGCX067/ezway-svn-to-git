@@ -1,0 +1,32 @@
+ABSTRACT:
+=========
+Method to maintain a stand alone versioned file that 
+maintains a record of all the changes done to that 
+particular file.
+
+PURPOSE:
+========
+A single/multi user versioning system that allows the 
+user to maintain a record of all the changes done to 
+the particular file done over a period of time. The 
+record of changes are maintained like a change log 
+of events, based on a userid, line number, version 
+number and time of the change.
+
+DESCRIPTION:
+============
+
+
+EXAMPLE:
+========
+
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+To get the correct mail address
+1. Remove spaces
+2. Replace at with '.'
+3. Replace dot with '@'
+

@@ -1,0 +1,51 @@
+ABSTRACT:
+=========
+Method to perform the captcha feature on a website
+by getting the user to match figures in two sets of
+images or a set of images with a set of words in 
+text format.
+
+PURPOSE:
+========
+This enables the website to prevent any use of 
+character recognition algorithm to defeat character 
+recognition programs. 
+
+DESCRIPTION:
+============
+By getting the user to match the figures, the user
+is required to match two images that are either same
+, altered sightly (ex: color and monochrome or image
+and its rotated version) or images that may convey
+the same/similar purpose  (ex: car and aeroplane, 
+being means of transportation) or arbitary images 
+that can be grouped together (ex: sun and a star can 
+grouped together as they are both stars, earth and 
+saturn being can be grouped together as both are 
+planets. Similarly, dog and cat as both as both are 
+mammals).
+
+In the case of the Image to text matching or text to
+image matching, the text and the image as mentioned 
+above could be related. (Example: a picture of a car
+could be matched to one of the words travel, 
+transportation, vehicle, car etc...)
+
+The sets itself doesn't have to be of the same length
+the 'match from' or the first set however has to be 
+smaller in size in comparison to 'match to' set or 
+the second set.
+
+Images themselves may be altered using an algorithm
+to prevent image recognition programs from being used
+to identify the image from a given set of images.
+
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+To get the correct mail address:
+1. Remove spaces
+2. Replace 'at' with '.'
+3. Replace 'dot' with '@'

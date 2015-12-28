@@ -1,0 +1,91 @@
+Abstract:
+========
+
+The usual design of all the operating system menu layout is done in 
+such a way that it represents the age old DOS approach of showing
+options under "File", "Edit" and "Help". Which is the most common
+options for a particular GUI (Graphical User Interface) Programs
+in Production even as of today. This layout hasn't 
+changed ever since its inception in DOS (Disk Operating System)
+created by Microsoft and implemented by all other Operating systems 
+as of today, irrespective of it being proprietory or not.
+
+This document proposes a new layout of the Menu that alters the 
+layout in such a way that it holds meaning in the modern day. 
+And isn't confusing to the end user at all.  As the menu option
+"File" is a method to group the operations on the file(s) the 
+program is associated with.
+The menu may or may not contain "File", "Edit" and "Help". However
+it will always start with "Cmd" or "Command" or "Options" or 
+"Program" or "Operation" or something similar (pertaining to the 
+program related operations rather than the files the program
+is meant to "operate" on, the latter behaviour is existent as of today 
+in most software products created or maintained by Microsoft 
+Inc and other Software Companies/Technology-related Institutions
+/Corporations/MNCs).
+
+Depending on the Users language set on the "Operating System", 
+"Start" of the menu could be either "Left" or "Right" or "Top" 
+or "Bottom" of the menu itself. Example: Arabic/Hebrew is a language
+that is written from Right to left. Here "Start of the Menu" is
+"Right". In English, its usually "Left" unless and until user
+modified the configuration of the "GUI" software.
+
+
+TERMINOLOGY USED:
+=================
+
+"Program" or "Application" or "Executable" in this document 
+refers to a Software irrespective of its state of execution. Doesn't
+necessarily have to posses a GUI. However in the abstract mentioned
+above it talks specifically about "Programs" with "GUI".
+
+"DOS" or Disk Operating System is a Non-GUI Operating System Developed
+by Microsoft Inc.
+
+"GUI" refers to Graphical User Interface. A "GUI" Program is a program
+that provides a Visual mechanism to use the program with the aid of
+computer peripherals such as keyboards, mouses, tablets, other pointing
+devices, monitors...etc". It is generally provided as a part of the 
+Operating System and generally provided by a "Library". It provides 
+users with a visual mechanism of using a "Program". However individual
+program may or may not be supplied with its own set of "Libraries".
+
+"Operating System" refers to the word used in the field of 
+Computing/Software.
+
+A file is document text or binary stored on a computer storage device, 
+it may or may not an "Executable" or "Program" or "Application".
+
+A file operation may or may not necessarily cause change to the file
+itself.
+
+A menu is a visual grouping mechanism for related operations or 
+in some cases unrelated operations that may or may not be seperated 
+by a "seperator" in a GUI "Program", provided by a "GUI" Library.
+Example: "File" in its most common usage in all GUI "Program" 
+refers to the set of operations the program provides for file(s) 
+associated with itself. It may or may not contain all the 
+operations pertaining to the file(s) itself.
+
+A "Library" is a group(in a file) of commonly used Software routines 
+or functions. It can also refer to "Program" that provides services
+to other "Program".
+
+All other terminology used but not explicitly defined in this
+document, relates to the field of Software, Software Development,
+Computer Science and its associated Fields.
+
+Microsoft Inc Refers to the Company and Shareholders of
+Microsoft Inc, Silicon Valley, Mountain View, CA-94043, USA.
+They are the creators/maintainers of Microsoft Windows Operating
+System, Microsoft Office, Microsoft Visual Studio Application, 
+apart from many such programs/application.
+
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop.kn@gmail.com
+anoop.kn@live.in
+anoop_kn@yahoo.com

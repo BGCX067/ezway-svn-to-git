@@ -1,0 +1,34 @@
+HASH
+====
+File: Cheap-Airforce-Defence-Planes-v1-00.jpg
+----------------------------------------------
+MD5:    6ed221e75ffbd536e96e2838bc8378b9
+SHA256: 5f28224d4cca4d2f046a7f95afe718409cdc60d7f3ef2a7b0972081b6612e516
+SHA512: 148e38aa045ef7611424fdb46a31238da6beb472dc31ecc3e6b636142b7ccff13b59ece2055e7ad741af7a6893d5457ff42b3c843ef7f599a4fd4752e02e6615
+
+Purpose:
+--------
+1. Low cost fighter planes for country's defence.
+2. Lower weight.
+3. Cheap.
+4. Easy to manufacture.
+
+Cons:
+-----
+1. Requires a high rpm, high power (1200HP) circular or v-block (basically v8 or v12) engine.
+2. Cannot beat the sound barrier.
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan
+
+
+
+
+

@@ -1,0 +1,26 @@
+Abstract:
+=========
+A method to consolidate advertisements on a single website for
+revenue generation and to advertise services provided a set of
+companies/individuals.
+
+Description:
+============
+Using a consolidated login management website to provide the 
+service of advertisements of individuals/websites/internet-companies/
+companies offering service via the internet registered with 
+the login management website. So as the user registers with
+the login management website, the user is also aware of other
+service providing individuals/websites/companies...etc 
+
+Purpose:
+========
+1. Revenue Generation
+2. Advertising
+
+Author:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+(for correct email address: remove spaces, replace
+at with '.' and dot with '@')

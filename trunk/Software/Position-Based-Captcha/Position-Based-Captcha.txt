@@ -1,0 +1,55 @@
+ABSTRACT:
+=========
+Method to perform captcha by asking the user to 
+locate an arbitary number of coloured boxes/dots/shapes and 
+sending a response message containing the same.
+
+PURPOSE:
+========
+1. A new approach to performing captcha.
+2. To ensure the access to a particular website 
+is possible only for a human being and not a 
+software bot.
+
+DESCRIPTION:
+============
+The website sends an image with a arbitary number
+of colored boxes/dots/shapes, that the user will have to 
+locate by using mouse clicks or a virtual scale 
+provided by the website. 
+
+The website validates the user by matching the location
+supplied by the user with the ones it has on its server.
+
+Variations
+----------
+The user may be asked to locate boxes/dots/shapes in a 
+particular color sequence. 
+The user may be asked to locate boxes/dots/shapes in a 
+particular direction, as in from top to bottom, left to 
+right... etc
+The user may be asked to locate boxes/dots/shapes of 
+arbitary numbers even if the criteria matching the same
+could be in surplus.
+The user may be asked to locate boxes/dots/shapes that 
+are either overlapping or not overlapping.
+
+
+NOTE:
+=====
+The size of the box/dots/shapes could anything from a pixel size
+to any arbitary size.
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+anoop at kn dot live at in
+anoop us kn dot yahoo at com
+To get the correct mail address
+1. Remove spaces
+2. Replace 'at' with '.'
+3. Replace 'dot' with '@'
+4. Replace 'us' with '_'
+
+

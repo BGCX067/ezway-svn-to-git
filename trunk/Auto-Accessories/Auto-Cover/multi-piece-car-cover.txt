@@ -1,0 +1,47 @@
+HASH
+====
+File: multi-piece-car-cover-usage-v1-00.jpg
+----------------------------------------------
+MD5:    7a7f8005a9045091f41df0e93a32c7ab
+SHA256: 04b850f8fd93f34ac50bfac53d6c4f301dff705d68675801f77a44a7d9fbe03a
+SHA512: 3b45805db335e332a25809b7e4980705c59da6b0751241c3f1975529e8b0bc7f19d3f389f3073bdda79619fa957bb07e93f3bc1b93172d65f6e11a08401398d4
+
+
+File: multi-piece-car-cover-v1-00.jpg
+----------------------------------------------
+MD5:    e95ee452dec8db58d71652cb9059f292
+SHA256: b83d392c6c0379e99281844ecaf0c0a2332e487abbfe4bb2d7871ca20976c459
+SHA512: a62303a358941de99862cabbce0bb8e7f53e05b61516ee1092b64c2c65196ca7e3324e4a0b88ea98f68830df15095b715d252276b4f70e208745709a2e6a6f17
+
+
+Purpose:
+--------
+1. To cover the car only in the most required areas bonet/hood, roof, boot/trunk(only for sedans). Sides not necessary.
+2. Hassle free setup and removal.
+3. Ability to stand strong winds.
+4. Should not get displaced easily.
+5. suction cups to be affixed on the windows, under the hood/boot  (inside/outside)
+6. 
+
+
+Materials:
+----------
+1. Cover itself to be made from either tarpaulin, canvas, polythene cover, polythene sheet, etc
+2. String to be made from extremely durable, heat/weather resistant material.
+3. Suction cups to be made with latex/rubber and should be heat/weather resistant.
+
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan
+
+
+
+
+

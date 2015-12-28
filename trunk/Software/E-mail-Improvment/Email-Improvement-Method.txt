@@ -1,0 +1,34 @@
+ABSTRACT:
+=========
+This document talks of a method to improve the experience of web based e-mail 
+usage and access.
+
+A visual/audible alarm/intimation/alert provided to the user of the web-email
+service for a reply received on an e-mail that was sent by the user which would 
+otherwise be filtered from the inbox into a specific folder present on 
+his/her web-email service based on the filter conditions that was set. 
+
+
+PURPOSE:
+========
+Web based email service providers generally provide a feature called folders. 
+The normal practice of using the folder is w.r.t the filtering of the mails 
+based on the subject, sender, content...etc apart from the other similar 
+criteria. 
+The mail that comes in to the inbox is sorted based on the filter condition 
+provided by the user of the web email service and it normally bypasses the 
+web email inbox altogether. If we get an email that would be sent to a folder
+based on the set conditions by the user. There is a possibility that the user
+may miss the mail altogther. Hence this feature that alerts the user based on
+a visual/audible intimation/alert/alarm to tell the user that he/she has indeed
+received a reply to an email that was sent. This alarm is not displayed for all 
+the e-mails that arrives but its shown/played only when the user receives a 
+reply for a email he/she sends that would be otherwise filtered from the inbox 
+into a folder based on the filter conditions set by the user of the web-email
+service.
+
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+

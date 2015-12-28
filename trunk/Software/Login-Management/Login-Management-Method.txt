@@ -1,0 +1,33 @@
+Abstract:
+=========
+A method to consolidate user login/registration service on a 
+seperate website in order to prevent wastage of time/money
+/effort to an internet-company/company that offers service 
+via the internet and to make the life of an end-user a lot 
+more simpler as he/she now only has to remember
+a single login-password pair to access multiple services.
+
+Purpose:
+========
+A consolidated approach to maintaining user login/registration 
+service on a single website also allows the company/individual
+offering services via the internet to manage lesser program code
+that would otherwise cost a lot more time/effor/money in order
+to create and maintain the same. 
+
+Most websites that are internet based/offer services via internet
+expects the user to register and login before the services
+provided by the former can be accessed. This means users  
+user is expected to remember multiple set of username-password 
+pairs in order to access services provided by the website, 
+which after a point of time becomes tedious and unmanagable.
+
+So, A consolidated approach works in the favor of both the 
+end-user as well as companies/individuals providing service
+over the internet.
+
+Author:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+

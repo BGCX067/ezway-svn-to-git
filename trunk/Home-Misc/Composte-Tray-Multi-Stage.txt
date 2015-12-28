@@ -1,0 +1,32 @@
+HASH
+====
+File: Composte-Tray-Multi-Stage-V1-00.jpg
+----------------------------------------------
+MD5:    72df92d6d1d3df992db48f27781654fc
+SHA256: c55a5637a877f5e4f46d714ac3f48461c1f076d1e51044bd613e07d487daeaac
+SHA512: 3ddaad5840f2ca35500262b674315391de513966bdaaa1d1b6ae83e7c2a9cc3171fb1dba7ac4c79f5eede615c109fa14635b3b7cf1b0de02e746cda667a2ed02
+
+
+Purpose:
+--------
+1. To degrade biological waste product.
+2. To prevent foul smell from being produced.
+3. Easy to use/operate/maintain.
+4. Stackable trays of soil.
+5. Easily removable trays of soil.
+
+
+Materials:
+----------
+1. Steel, Stainless Steel, Mesh, Cloth, Wood.
+
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan

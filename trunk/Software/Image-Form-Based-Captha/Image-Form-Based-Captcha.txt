@@ -1,0 +1,38 @@
+ABSTRACT:
+=========
+Method to prevent bots from identifying captcha images
+by embedding the captcha image in a form created out 
+of an Image itself. 
+
+PURPOSE:
+========
+To defeat captcha programs with a near 100% success 
+rate. 
+
+DESCRIPTION:
+============
+The webform on a particular website is created out of
+an image. The image has the embedded captcha image to
+let the user authenticate as a valid user and not a 
+bot program. 
+
+Variations
+----------
+
+
+NOTE:
+=====
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com (presently hacked into big time)
+anoop at kn dot live at in
+anoop us kn dot yahoo at com
+To get the correct mail address
+1. Remove spaces
+2. Replace 'at' with '.'
+3. Replace 'dot' with '@'
+4. Replace 'us' with '_'
+
+

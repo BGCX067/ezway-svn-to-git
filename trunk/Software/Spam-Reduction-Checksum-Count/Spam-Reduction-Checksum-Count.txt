@@ -1,0 +1,92 @@
+ABSTRACT:
+=========
+Method to prevent spamming in a particular protocol
+(text-based or binary-based) by introducing checksum 
+count technique. Alternatively a number of encryptions 
+with an final checksum can also be used in place of 
+checksum alone.
+
+PURPOSE:
+========
+1. Reduction of spam.
+2. To remove the speed advantage of a more sophisticated
+computer system.
+3. Can be used on Peer-To-Peer networks.
+
+DESCRIPTION:
+============
+Steps:
+======
+Here the sender/receiver is software (compiled-machine-code/
+bytecode-interpreted/interpreted program) running on a computer/
+emulated-computer(software).
+
+Checksum/encryptions-with-final-checksum count is number of times 
+the calculations are performed. Encryption algorithm could be used
+along with interleaved checksumming and a final checksum calculation
+as well.
+
+1. The software (both sender/receiver) requests a website 
+for a list that includes checksum/encryptions-with-final-checksum 
+count, associated checksum/encryptions-with-final-checksum 
+algorithm, associated processor used for computation, system memory,
+system virtual memory, associated message sizes, method (compiled 
+binary source file or interpreted software or ). Or optionally
+the software could perform the calculation itself. This information 
+could be provided as a service as well. The value could be benchmark
+value as well. This step is an optional step.
+
+2. The sender requests the receiver for its processor information
+, the number of checksums/encryptions-with-final-checksum count,
+checksum/encryptions-with-final-checksum algorithm (and other data
+mentioned in step 1 ) from the receiver
+as a part of the protocol itself or data, and it optionally could 
+send the information based on the sender's system to the the receiver
+as well.
+
+3. Receiver sends the configuration as part of protocol or data
+to the sender. And the sender begins performing calculation and 
+and sends the resulting checksum (optionally, the information 
+received from the receiver to the receiving system) 
+as a part of the protocol itself or data along with the data. 
+Optionally, the receiver could send a very large count value for 
+an unknown sender so as to prevent spamming, and gradually increase
+or decrease the count value as the spamming increases or reduces
+respectively. Receiver could optionally prioritize these messages 
+as well. Receiver could use a matching or relatively equivalent 
+system information values, and adjusts the count value so as to match 
+its processing speed, If the sender doesn't send the system
+information the receiver could send a huge value. Optionally, the
+receiver could send a request for the a series of checksums at
+different stages of checksum calculation from the sender.
+
+4. Receiver validates the data by performing the number of checksums
+/encryptions-with-final-checksum. Discards message and optionally 
+increases the count value for the sender, if it fails. 
+The calculations could be done on the receiver machine or on a 
+remote computer(desktops/servers/supercomputers that could be a 
+paid service).
+
+5. The checksum count required by the sender could be increased with
+every message failure or with message detected as spam or with the 
+number of messages being received by the sender. It could optionally 
+be reduced should the message be from a valid-sender, paid-sender 
+or a honest sender who isn't spamming (based on the messages validated 
+by the receiver). 
+
+NOTE:
+=====
+1. How to judge if a sender is a valid-sender/paid-sender
+isn't within the scope of this innovation, and the software could
+use a website/tracking-website or other several means to detect it.
+
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+To get the correct mail address
+1. Remove spaces
+2. Replace at with '.'
+3. Replace dot with '@'
+

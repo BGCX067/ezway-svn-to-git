@@ -1,0 +1,59 @@
+ABSTRACT:
+=========
+This document describes a method to deliver software to 
+the end users.
+
+DESCRIPTION:
+============
+The delivery of the software is done via a another "software"
+that will from now on be termed as the "fetcher", and the
+"software" that is delivered from here on will be termed
+as the "fetched".
+
+Description of "fetcher":
+-------------------------
+The "fetcher" is a support tool that aids in the software
+delivery mechanism itself. It may or may be optionally 
+coupled with an online service that aids in the below 
+mentioned tasks.
+
+The "fetcher" performs the following tasks:
+-------------------------------------------
+1. It discovers the repository from where the "fetched"
+can be downloaded. It can also discover the "fetched" on
+the same system (system on which the "fetcher" resides),
+on a LAN, or on a WAN or on the internet. The location
+of the fetched can be manually programmed into the
+"fetcher".
+
+2. The "fetcher" also supports an "unlimited" (limited
+only by computer resources) number of software
+repositories. This can be manually configured or
+automatically configured by configuration file that may
+be read from the same system (system on which the
+"fetcher" resides), or downloaded and read from a LAN,
+or a WAN or from the Internet.
+
+3. Once the "fetched" is located and downloaded, the
+"fetcher" performs the installation of the fetched.
+The "fetcher" then optionally (configured by the vendor
+of the fetched) performs encryption (using a randomly
+generated key) and/or compression of the "fetched"
+and then stores the files at the user chosen location
+on the computer system,
+the encryption key will not be stored locally but at
+an online "fetcher" key storing service. To which anyone
+may be registered to for a fee (or advertisements) or
+gratis.
+
+4. "Fetcher" starts the program by providing an emulated
+environment where in the files are decompressed and
+unencrypted(to prevent tampering of the fetched) where
+ever necessary.
+
+5. The "fetcher" then starts the executable program or
+application associated with the "fetched".
+
+
+TERMINOLOGY:
+============

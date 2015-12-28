@@ -1,0 +1,31 @@
+ABSTRACT:
+=========
+Method to perform zero registration service over the
+internet.
+
+PURPOSE:
+========
+1. To make it extremely easy for a user to use
+a service by not providing a single user registration
+service.
+
+DESCRIPTION:
+============
+
+
+NOTE:
+=====
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+anoop at kn dot live at in
+anoop us kn dot yahoo at com
+To get the correct mail address
+1. Remove spaces
+2. Replace 'at' with '.'
+3. Replace 'dot' with '@'
+4. Replace 'us' with '_'
+
+

@@ -1,0 +1,37 @@
+ABSTRACT:
+=========
+Method to 
+
+PURPOSE:
+========
+1. Storing the majority content as images to ensure the 
+content transferred from the web server to the browser 
+is as minimal as possible for a frequent user as most
+images are stored in browser cache.
+2. Images generally have better resolution than text 
+and is loaded faster on the web-browser as well.
+
+DESCRIPTION:
+============
+
+
+Variations
+----------
+
+
+NOTE:
+=====
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com (presently hacked into big time)
+anoop at kn dot live at in
+anoop us kn dot yahoo at com
+To get the correct mail address
+1. Remove spaces
+2. Replace 'at' with '.'
+3. Replace 'dot' with '@'
+4. Replace 'us' with '_'
+
+

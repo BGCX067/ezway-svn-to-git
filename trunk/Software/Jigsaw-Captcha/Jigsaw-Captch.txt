@@ -1,0 +1,50 @@
+ABSTRACT:
+=========
+Method to use a fragmented images of text/image/picture
+in captcha. The feature is called Jigsaw Captcha.
+
+PURPOSE:
+========
+A broken up image of text/image/picture is nearly 
+impossible to crack/hack using character recognition 
+software, and would definitely require human intervention.
+
+Also this would cause the end-user to take time to 
+recognise the word itself further reducing the 
+extent of hacking of websites by human beings as well. 
+
+DESCRIPTION:
+============
+An image of text (number, alphanumeric, special characters, 
+localized language text) or an Image/picture that is generally 
+used by the website to identify if the end user is indeed a 
+human (feature commonly known as 'captcha') if sent as a 
+non-intersecting fragments of images (like a jigsaw 
+puzzle), will further thwart the use of character recognition 
+programs.  
+
+The fragments of the captcha image itself may be displayed 
+as a single image or it can be displayed as individual 
+images itself.
+
+A human end-user will be able recognise the text/image/picture 
+as a whole even though it may be broken up into several 
+(greater than or equivalent to two fragments) fragments 
+of images .
+
+Optionally the user may be provided with an applet or a 
+flash program to try and join the pieces in order for the
+user to identify the captcha image itself.
+
+EXAMPLE:
+========
+
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+To get the correct mail address
+1. Remove spaces
+2. Replace at with '.'
+3. Replace dot with '@'

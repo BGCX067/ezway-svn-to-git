@@ -1,0 +1,47 @@
+ABSTRACT:
+=========
+Method to use refernce image that associates images
+to characters present on the computer keyboard for
+a captcha Image test on a website. 
+
+PURPOSE:
+========
+The use of a refernce image that is associated with 
+characters present on a keyboard to test if a 
+particular user accessing a website is indeed human 
+or not. This allows the website some control over the
+otherwise weak character recognition captcha test 
+images that can be easily cracked using character 
+recognition software. 
+
+DESCRIPTION:
+============
+Here, the character 'A' could be associated to an image
+and character 'B' is associated to another image not 
+necessarily related. It could be associated with an image
+of a character itself. The website must also provide 
+a refernce image that displays the images associated with
+characters present on keyboard.
+
+EXAMPLE:
+========
+Website shows the reference image containing set of
+Images with character associations and the captcha image
+An example of a refernce image could be, 
+'Image of car' = A, 'Image of skull' = B , 'Image of 
+letter Z' = C, 'Image of the deaf language symbol 
+for E' = D ... etc.
+
+If Captcha Image displays 'Image of car' and 'Image of 
+letter Z'. The reponse from the user of the website 
+must be 'AB' in order for the website to carry out 
+the operation requested.
+
+AUTHOR:
+=======
+Anoop Kumar Narayanan
+anoop at kn dot gmail at com
+To get the correct mail address
+1. Remove spaces
+2. Replace at with '.'
+3. Replace dot with '@'

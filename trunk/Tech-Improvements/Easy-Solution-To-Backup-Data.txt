@@ -1,0 +1,53 @@
+HASH
+====
+File: Easy-Solution-To-Backup-Data-v1-00.jpg
+----------------------------------------------
+MD5:    cda2364bca8e841a299bc320ccbf81bb
+SHA256: 4aa9ccf50adf6e36179a7ea3c28aa25f37cc3d531bba4639718a58589293d44a
+SHA512: 3ea716d85b8e4783f3a797dab0eac498694db1c54e852e060e2f1eedc72b42baa9367a7dd12d2495acd083ce4d81db2b8e34e10c60b9edabdfc8151bf6a6230b
+
+
+Purpose:
+--------
+1. To Backup Data, Contacts, Information During charging of a communication,
+computer/mobile device(such as Mobile phones/PDAS/Laptops/Netbooks/E-BookReaders
+/presentation device(sixth sense...etc)/music player/digital camera ...etc 
+Some of these are communication devices.)
+2. To prevent user from having to manually back up the information on a 
+periodical basis.
+
+
+Problem:
+--------
+In case of theft or loss of a communication/computer/mobile device there is a chance 
+that people could to lose their data which in my opinion is very valuable/important 
+to its owner. A timely backup of the data is great solution unless you lose that device 
+as well (this is however a rare phenomenon), a greater possibility is that we forget 
+all about a timely periodical backup as we are indeed human beings (and to err is...).
+
+
+Solution:
+---------
+Mobile charger includes a Flash memory (a card type is preferable) that can be removable, 
+while connecting the device for charging, the data, contacts and other information from 
+the communication/computer/mobile device could be transferred to the charging device and 
+the charging device just writes this backup data onto the flash memory. A computer may
+ require a backup memory between 32GB-128gb, For a mobile/communication device it can be 
+much smaller around 2GB-32GB.
+
+This will likely increase the need for people to buy new and more improved computer/
+communication/mobile device with a charger with data backup ability.
+
+
+License:
+--------
+As specified at
+http://ezway.googlecode.com
+
+
+Author/Inventor:
+----------------
+Anoop Kumar Narayanan
+anoop dot kn at gmail dot com
+anoop dot kn at live dot in
+anoop underscore kn at yahoo dom com
